@@ -1,4 +1,4 @@
-### Udacity Data Science Nanodegree Deep Learning
+### Udacity Machine Learning Nanodegree Deep Learning
 
 Data Science / Machine Learning / Deep Learning
 
