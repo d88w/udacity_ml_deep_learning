@@ -9,3 +9,4 @@ projects from the udacity data science nano degree program
 01. Implementing Gradient Descent
 02. Predicting Student Admissions with Simple Neural Networks
 03. Code Gradient Descent
+04. Deep learning with PyTorch - classifying cats vs dogs
