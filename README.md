@@ -1,6 +1,6 @@
 ### Udacity Machine Learning Nanodegree Deep Learning
 
-Data Science / Machine Learning / Deep Learning / PyTorch
+Deep Learning / PyTorch / Training Image Classifiers
 
 projects from the udacity data science nano degree program
 
