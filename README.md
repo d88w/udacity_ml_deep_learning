@@ -4,7 +4,7 @@ Deep Learning / PyTorch / Training Image Classifiers
 
 projects from the udacity data science nano degree program
 
-- Project_Image_Classifier - Chapter Capstone Project
+- Project_Image_Classifier - Capstone Project
 
 01. Implementing Gradient Descent
 02. Predicting Student Admissions with Simple Neural Networks
